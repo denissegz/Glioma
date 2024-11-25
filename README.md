@@ -117,21 +117,5 @@ For risk analysis, the models performed better for OS and DSS events compared to
 
 This study demonstrates that machine learning models can accurately classify glioma subtypes and predict survival outcomes, offering a promising approach for clinical decision-making and personalized treatment strategies. The integration of classification and survival risk analysis represents an important step toward improving glioma prognosis.
 
-## Setup Instructions
-
-### Prerequisites
-
-To run the code, make sure you have the following dependencies installed:
-
-- Python 3.x
-- pandas
-- numpy
-- scikit-learn
-- xgboost
-- shap
-- matplotlib
-- seaborn
-- jupyter
-
 
 
